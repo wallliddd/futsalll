@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/futsalll/static/css/main.073c9b0a.css",
+    "main.js": "/futsalll/static/js/main.3ebbb8d7.js",
+    "static/js/787.c52a3159.chunk.js": "/futsalll/static/js/787.c52a3159.chunk.js",
+    "static/media/logo.svg": "/futsalll/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/futsalll/index.html",
+    "main.073c9b0a.css.map": "/futsalll/static/css/main.073c9b0a.css.map",
+    "main.3ebbb8d7.js.map": "/futsalll/static/js/main.3ebbb8d7.js.map",
+    "787.c52a3159.chunk.js.map": "/futsalll/static/js/787.c52a3159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3ebbb8d7.js"
+  ]
+}
